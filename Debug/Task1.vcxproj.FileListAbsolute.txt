@@ -1,0 +1,2 @@
+C:\Users\smhol\source\repos\WGU\Fall 2020\Scripting and Programing C++\Task1\Debug\Task1.exe
+C:\Users\smhol\source\repos\WGU\Fall 2020\Scripting and Programing C++\Task1\Debug\Task1.pdb
