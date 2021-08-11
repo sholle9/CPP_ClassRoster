@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-
+	//this is string arry of student data
 	const string studentData[] =
 
 	{ 
